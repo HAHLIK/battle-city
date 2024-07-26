@@ -3,6 +3,9 @@ cmake_minimum_required(VERSION 3.30 FATAL_ERROR)
 set(PROJECT_NAME BattleCity)
 project(${PROJECT_NAME})
 
+set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} 
+	/SUBSYSTEM:WINDOWS /ENTRY:mainCRTStartup")
+
 add_executable(${PROJECT_NAME} src/main.cpp)
 
 set(GLFW_BUILD_DOCS OFF CACHE BOOL "" FORCE)
