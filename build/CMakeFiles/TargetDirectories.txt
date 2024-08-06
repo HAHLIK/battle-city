@@ -1,8 +1,0 @@
-C:/Users/Cenzor/BattleCity/build/CMakeFiles/BattleCity.dir
-C:/Users/Cenzor/BattleCity/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Cenzor/BattleCity/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/Cenzor/BattleCity/build/external/glfw/CMakeFiles/ALL_BUILD.dir
-C:/Users/Cenzor/BattleCity/build/external/glfw/src/CMakeFiles/glfw.dir
-C:/Users/Cenzor/BattleCity/build/external/glfw/src/CMakeFiles/update_mappings.dir
-C:/Users/Cenzor/BattleCity/build/external/glad/CMakeFiles/GLAD.dir
-C:/Users/Cenzor/BattleCity/build/external/glad/CMakeFiles/ALL_BUILD.dir
